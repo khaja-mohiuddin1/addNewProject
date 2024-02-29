@@ -154,7 +154,7 @@ const items = [
               <div className="flex">
                 <Image src={tester} />
                 <div className="flex flex-col justify-start">
-                  <h2 className=" text-black font-segoe-ui text-base text-left pl-2 font-normal leading-6 mr-5 w-32 ">
+                   <h2 className=" text-black font-segoe-ui text-base text-left pl-2 font-normal leading-6 mr-5 w-32 ">
                     Tester
                   </h2>
                   <p className=" pl-2 w-32 text-left">0 Members</p>

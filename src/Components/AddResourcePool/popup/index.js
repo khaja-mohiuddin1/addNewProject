@@ -12,7 +12,7 @@ import {
   addResources,addResourcesData ,addResourcesPM ,addResourcesUxDesigner,addResourcesUiDeveloper,addResourcesApiDeveloper,addResourcesTester,addResourcesUxResearch,addResourcesCiCd
 } from "@/Context/AddresourcesSlice/addresourcesSlice";
 
-export const Projectmanager = (props) => {
+export const  Projectmanager = (props) => {
   // All Hooks
   const [projectResource, setprojectResource] = useState({
     resourcePool: [

@@ -143,8 +143,8 @@ const ProjectLayout = () => {
             </a>
           </Dropdown>
           <div className="">
-            <button className="   py-1  px-4 bg-blue-500 text-white bg-primary-6">
-              <Link href="/main/projects/addNewProject"> Create Project</Link>
+            <button className="   py-1  px-4  border-blue-500 bg-blue-500 text-white hover:text-white ">
+              <Link className="hover:text-white" href="/main/projects/addNewProject"> Create Project</Link>
             </button>
           </div>
         </div>
